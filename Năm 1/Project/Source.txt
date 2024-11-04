@@ -1,0 +1,9 @@
+Khóa học sử dụng AppSheet: https://www.cloudskillsboost.google/course_templates/336
+
+How to creat user login id and password inter face: https://www.youtube.com/watch?v=VL-w6Uny86I
+
+Database: Convenience Store Multiple Items POS System.xlsx
+
+Link dự phòng: https://docs.google.com/spreadsheets/d/1oqrGLdLZFS0w1Hmp9PU2AyQc3nJlMFIqfCgxPrht16I/edit?usp=sharing
+
+Sản phẩm: https://www.appsheet.com/start/96a5d80e-3e3e-4ae4-9553-34e82ec77aec
